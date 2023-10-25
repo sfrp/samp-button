@@ -1,6 +1,6 @@
 {
-	"user": "ScavengeSurvive",
-	"repo": "button",
+	"user": "sfrp",
+	"repo": "samp-button",
 	"entry": "test.pwn",
 	"output": "test.amx",
 	"dependencies": [
