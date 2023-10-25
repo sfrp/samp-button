@@ -10,7 +10,7 @@
 		"Southclaws/samp-logger",
 		"pawn-lang/YSI-Includes",
 		"samp-incognito/samp-streamer-plugin:v2.9.3",
-		"ScavengeSurvive/action-text",
+		"sfrp/samp-action-text",
 		"ScavengeSurvive/mathutil",
 		"Southclaws/pawn-errors"
 	],
